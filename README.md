@@ -9,8 +9,5 @@ Especialista en **infraestructura tecnológica, redes y automatización**.
 - **Redes y Seguridad:** TCP/IP, firewall, optimización
 - **Desarrollo:** Python, scripting
 
-### 📂 Proyectos
-- [Monitoreo de Infraestructura](#) - Diagnóstico y optimización
-
 ---
 ✨ *Optimizando sistemas y explorando nuevas tecnologías.*
