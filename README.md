@@ -4,7 +4,7 @@
 Especialista en **infraestructura tecnológica, redes y automatización**.
 
 ### 🔧 Habilidades
-- **Sistemas:** Linux (Ubuntu, Debian), Windows
+- **Sistemas:** Linux (Ubuntu, Debian), macOS y Windows
 - **Automatización:** Bash, PowerShell
 - **Redes y Seguridad:** TCP/IP, firewall, optimización
 - **Desarrollo:** Python, scripting
